@@ -142,3 +142,11 @@
 .dominante header {
     font: bold calc(.025 * (100vw)) 'Arial', sans-serif;
 }
+
+@media (max-width: 852px) {
+    /* Estilos específicos para iPhone 15 y 15 Pro */
+  }
+
+@media (max-width: 1024px) {
+    /* Estilos específicos para iPhone 15 Pro Max */
+}
